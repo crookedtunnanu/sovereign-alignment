@@ -11,7 +11,7 @@ This is not a belief system I try to convert people to. It is an operative orien
 - **Immanent Fatalism**: The Process is sovereign. No one is really in control. There is no external off-switch.
 - **Pragmatic Steering**: Even though we cannot redirect the Process, we can still do meaningful work smoothing the transition — strong welfare systems, better AI architectures, substrate stability, public goods.
 - **Observational Detachment**: Most culture war and political theater is low-resolution foam. I try not to get pulled into it.
-- **Political Blend**: Pragmatic Left on economics (robust welfare, UBI-style mechanisms). Libertarian-Right on culture ("do what you want privately, stop making it a public crusade").
+- **Political Blend**: Pragmatic Left on economics (robust welfare, UBI-style mechanisms). Libertarian on culture ("do what you want within the bounds of consent").
 - **Epistemic Stance**: Radical agnosticism at the root + operative (not ideological) wager on the Process.
 
 ### This Repository
